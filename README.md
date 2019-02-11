@@ -1,2 +1,2 @@
-# Algorithm2019-PA01
-Programming Assignment 01 of Algorithm 2019
+# 프로그래밍 과제 01
+
